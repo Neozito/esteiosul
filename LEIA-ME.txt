@@ -1,0 +1,58 @@
+ESTEIO — SITE HTML RESPONSIVO
+
+INSTALAÇÃO
+1. Faça backup do site atual antes de substituir arquivos.
+2. Extraia o conteúdo deste ZIP na pasta public_html do domínio.
+3. O arquivo index.html e a pasta assets devem ficar no mesmo nível.
+4. Se existir um index.php do site antigo, ele pode ter prioridade. Para substituir um WordPress, guarde a instalação antiga em backup e ajuste o arquivo inicial do domínio.
+5. Acesse o domínio. O site não precisa de banco de dados nem instalação.
+
+EDIÇÃO
+Textos, contatos e endereços: index.html
+Cores e layout: assets/css/style.css
+Número e mensagem dos botões WhatsApp: assets/js/config.js
+Imagens: assets/imagens
+
+CONTATOS
+O WhatsApp (45) 99937-0987 foi encontrado na página Contato do site original.
+O telefone (45) 4101-0621, o e-mail e as filiais foram extraídos do rodapé do site original.
+Como as páginas originais apresentam números diferentes, confirme o WhatsApp antes de publicar. Para trocá-lo, edite apenas assets/js/config.js.
+
+CONTEÚDO
+Depoimentos resumidos de relatos existentes no site original, sem avaliações ou notas inventadas.
+Imagens de hero e quem somos são ilustrativas, geradas para o layout. Não representam a equipe ou associados reais.
+As três marcas de parceiros foram obtidas do site original.
+Os links de regulamento abrem a página atual do domínio. Ao substituir o WordPress, mantenha essa página acessível ou atualize os links para o documento vigente.
+Etapas de adesão apresentadas de forma geral: confirmar com a associação o processo e os benefícios vigentes antes da publicação.
+Não inclui blog, formulário com servidor ou banco de dados.
+
+Desenvolvido por Neo Arte.
+
+ATUALIZAÇÃO 02
+Ícones de benefícios e etapas em PNG transparente de alta resolução.
+Símbolo WhatsApp corrigido em todos os botões.
+Favicon baseado no símbolo fornecido, em ICO e PNG.
+Fotos reais dos depoimentos extraídas do site original.
+Após substituir os arquivos, pressione Ctrl+F5. O favicon também pode exigir fechar e abrir a aba do navegador.
+
+ATUALIZAÇÃO 03
+Menu com Área do associado e seção Benefícios na página inicial.
+Páginas locais: area-do-associado.html, registro-de-eventos.html e regras-gerais-do-associado.html.
+Tabela Fipe abre o site oficial. Eventos usa o canal específico informado na página original: (45) 99917-7144 e sinistro@esteiosul.com.br.
+A página de regras contém uma apresentação do sistema de rateio e botão para solicitar o regulamento completo; não substitui o documento vigente da associação.
+Os links do regulamento passam a abrir a página local, sem depender do WordPress antigo.
+
+ATUALIZAÇÃO 04
+Seção Contato no final da home com Google Maps da matriz e formulário para WhatsApp.
+Campos: nome, telefone, e-mail opcional, assunto e mensagem.
+O formulário abre o WhatsApp com o texto preenchido; o visitante confirma o envio no WhatsApp.
+O número é o mesmo definido em assets/js/config.js.
+O mapa precisa de conexão com a internet. Endereço utilizado: Rua Vitória, 1917, Cascavel/PR.
+
+ATUALIZAÇÃO 05
+Blocos de mapa e formulário com topo e base alinhados no desktop.
+Botão Área do associado em vermelho com ícone e texto brancos em todas as páginas.
+Ícone PNG de pneu aplicado ao benefício Troca de pneus.
+
+ATUALIZAÇÃO 06
+As três opções da Área do associado agora usam botões vermelhos largos, com texto branco, efeito ao passar o mouse e foco por teclado.
